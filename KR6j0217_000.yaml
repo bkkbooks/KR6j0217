@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0217/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切如來正法祕密篋印心陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1023.xml
+    old_id: T19n1023
+hash: sha256:69c1af5dbf90b85de8adaff464faae0ae9653e8817ee3a69ef8a9cb89c3c1948

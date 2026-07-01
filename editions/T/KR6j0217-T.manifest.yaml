@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0217/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0217/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切如來正法祕密篋印心陀羅尼經
+  identifiers:
+    krp: KR6j0217
+    cbeta: T19n1023
+    cbeta_old_id: T19n1023
+    authorityid: CA0003734
+    json_key: T1023
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1023.xml
+    old_id: T19n1023
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0217_000-T.yaml, hash: 'sha256:69c1af5dbf90b85de8adaff464faae0ae9653e8817ee3a69ef8a9cb89c3c1948'}
+  - {seq: 1, filename: KR6j0217_001-T.yaml, hash: 'sha256:6df2639bf86c603662d7a01ff2aa2aab09c65c0510140894a953e0b92af16c05'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0217_000-T.markers.yaml, hash: 'sha256:3f17baa404581e2c719ec9cdfaf467a5b1b8e539a7a11611787b522742a123ca'}
+  - {seq: 1, role: markers, filename: assets/KR6j0217_001-T.markers.yaml, hash: 'sha256:60c61b8d8678863b0542399c70d76232a3a71e62b848a7ec5e104d7058be599d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0217_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3895
+  label: '一切如來正法祕密篋印心陀羅
+
+    尼經'
+  type: juan
+  level: 1
+hash: sha256:fa992cbc76b6bc8ed5b7863f69d31cd47bd4a88f71913d17bbe8bdd9179db400
