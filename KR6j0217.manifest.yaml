@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0217/v1
 canonical_location: https://kanripo.org/bkk/KR6j0217/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一切如來正法祕密篋印心陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0217_000.yaml, hash: 'sha256:69c1af5dbf90b85de8adaff464faae0ae9653e8817ee3a69ef8a9cb89c3c1948'}
-  - {seq: 1, filename: KR6j0217_001.yaml, hash: 'sha256:6df2639bf86c603662d7a01ff2aa2aab09c65c0510140894a953e0b92af16c05'}
+  - {seq: 1, filename: KR6j0217_001.yaml, hash: 'sha256:7383f436d9a2af705b0f579af45dba78fbaf976efe318d917715e7ec66c161c1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0217_000.markers.yaml, hash: 'sha256:a98cfbd5c828396ffc4fbb9dfa558948a79071d29bba3c7a613f7a7653528253'}
-  - {seq: 1, role: markers, filename: assets/KR6j0217_001.markers.yaml, hash: 'sha256:d823316d00586f15403b61bb742de6edeece4687db66a685e2b48d10115b41ae'}
+  - {seq: 1, role: markers, filename: assets/KR6j0217_001.markers.yaml, hash: 'sha256:94be3faa6df1b0a5f05fd449693fbb8315798dcc131e5f82065cf049a48a1034'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     尼經'
   type: juan
   level: 1
-hash: sha256:13bfee68b0aa6f728e324d88ffe84fccd83bb4343beb1cddcfddf8624fbb2913
+hash: sha256:d021bd034a53842173505480cc4c979204bc51686f68291039c86eabcb19dcb9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
